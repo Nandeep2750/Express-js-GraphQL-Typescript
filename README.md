@@ -1,7 +1,6 @@
+# Express.JS GraphQL Typescript Demo
 
-# Personal Website
-
-Personal Website created with Front end with Next.Js and Backend with Node.Js with GraphQL.
+Demo APIs created with with Node.Js with GraphQL.
 
 
 ## Authors
@@ -11,11 +10,7 @@ Personal Website created with Front end with Next.Js and Backend with Node.Js wi
 
 ## Tech Stack
 
-**Client:** Next.JS, GraphQL
-
-**CMS:** React.JS, Redux, GraphQL
-
-**Server:** Node, Express, GraphQL
+**Server:** Node.Js, Express, GraphQL, Typescript
 
 
 ## Run Locally
